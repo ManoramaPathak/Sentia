@@ -1,1 +1,2 @@
-# Sentia
+# Sentia - Microsoft azure assessment.
+This repository contains details and files related to ...
